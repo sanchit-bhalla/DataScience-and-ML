@@ -1,0 +1,6 @@
+[0625/180637.225:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0625/180637.256:ERROR:exception_snapshot_win.cc(98)] thread ID 16104 not found in process
+[0625/180637.396:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0625/180637.396:ERROR:exception_snapshot_win.cc(98)] thread ID 16108 not found in process
+[0628/170847.686:ERROR:file_io_win.cc(179)] CreateFile C:\Users\mehak\AppData\Local\Temp\scoped_dir7116_831043066\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0628/171713.915:ERROR:file_io_win.cc(179)] CreateFile C:\Users\mehak\AppData\Local\Temp\scoped_dir6616_1200649319\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
