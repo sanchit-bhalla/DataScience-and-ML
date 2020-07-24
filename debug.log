@@ -1,1 +1,2 @@
 [0723/094200.645:ERROR:file_io_win.cc(179)] CreateFile C:\Users\mehak\AppData\Local\Microsoft\Edge\User Data\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0724/142248.255:ERROR:file_io_win.cc(179)] CreateFile C:\Users\mehak\AppData\Local\Microsoft\Edge\User Data\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
